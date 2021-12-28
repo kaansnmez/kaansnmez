@@ -7,7 +7,7 @@ I am from Turkey.I am learning Spark. I have an enthusiasm for the big data ecos
 
 Skills: Python / Spark / C# / CSS3 / HTML5 
 
-- 🌱 I’m currently learning Apache Spark 
+- 🌱 I’m currently learning Advanced Python, Tableau
 - 🤔 I’m looking for help with PowerBI, Tableau
 - 💬 Ask me about Python 
 - 📫 How to reach me: kaan.sonmez97@gmail.com 
