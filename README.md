@@ -2,10 +2,11 @@
 #### Learning Data Science Tools
 ![Learning Data Science Tools](https://thefutureofthings.com/wp-content/uploads/2019/05/1032-1024x768.jpg)
 
-I am from Turkey.I am learning ML,Visulation Tools. I have an enthusiasm for the Data Science. I have knowledge in Python, Machine learning, OpenCv libraries. I am currently working on Batch and Streaming simulations on Spark.
+I am from Turkey.I am learning ML,Visulation Tools. I have an enthusiasm for the Data Science. I have knowledge in Python ML,Data Science libraries. I am currently working on Data
+Science.
 
 
-Skills: Python / Spark / C# / CSS3 / HTML5 
+Skills: Python / SQL / C# / CSS3 / HTML5 
 
 - 🌱 I’m currently learning Advanced Python, Tableau
 - 🤔 I’m looking for help with PowerBI, Tableau
